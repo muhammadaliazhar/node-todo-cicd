@@ -16,5 +16,5 @@ Run these commands:
 or Run by docker compose
 
 
-testing app done
+test
 
